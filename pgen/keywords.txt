@@ -1,0 +1,6 @@
+grid_	KEYWORD1
+
+marcame	KEYWORD2
+res	KEYWORD2
+
+#PREC_LOW	LITERAL1
